@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="index.css" rel="stylesheet" type="text/css">
+		<link href="https://fonts.googleapis.com/css?family=Oswald:400,500" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Roboto:400,400i,500,700" rel="stylesheet">
+  </head>
+  <body>
+		<h1 class="titulo">Tabela</h1>
+		<table>	
+			<thead>
+				<tr>
+					<th>América</th>
+					<th>África</th>
+					<th>Ásia</th>
+					<th>Europa</th>
+				</tr>
+			</thead>
+			<tbody>
+			<tr>
+    		<td class="america">Brasil</td>
+				<td class="africa">Moçambique</td>
+    		<td class="asia">Suriname</td>
+				<td class="europa">Bélgica</td>
+			</tr>
+			<tr>
+    		<td class="america">Colômbia</td>
+				<td class="africa">Angola</td>
+				<td class="asia">Índia</td>
+				<td class="europa">Holanda</td>
+			</tr>
+			<tr>
+    		<td class="america">Uruguai</td>
+				<td class="africa">Nígeria</td>
+				<td class="asia">Paquistão</td>
+				<td class="europa">Irlanda</td>
+			</tr>
+			<tr>
+				<td class="america">Chile</td>
+				<td class="africa">Chade</td>
+				<td class="asia">Sri Lanka </td>
+				<td class="europa">Bulgária</td>
+			</tr>
+			<tr>
+				<td colspan="3">Número de países</td>
+				<td>16</td>
+			</tr>
+			</tbody>
+		</table>
+  </body>
+</html>
