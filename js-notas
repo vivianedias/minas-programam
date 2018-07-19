@@ -1,0 +1,13 @@
+var nota1 = 5;
+var nota2 = 6;
+var nota3 = 8;
+var media = (nota1 + nota2 + nota3) / 3;
+var media = media.toFixed(2);
+var publicar = document.getElementById("media-final");
+publicar.innerHTML = media;
+
+var name = prompt("Qual é o seu nome?")
+var publicarName = document.getElementsByClassName("name")[2];
+var publicarNota = document.getElementById("media-final")
+publicarName.innerHTML = name;
+publicarNota.innerHTML = media;
