@@ -1,0 +1,37 @@
+table{
+				width: 640px;
+				border-collapse:collapse;
+				color:#fff;
+				background: linear-gradient(45deg, #49a09d, #5f2c82);
+			}
+			.titulo{
+				color:#9FA49C;
+				text-align: center;
+				font-family: "Oswald";
+			}
+			th,td{
+				padding: 0.8em;
+				height: 30px;
+			}
+			body{
+				width: 60%;
+				max-width: 700px;
+				margin: 20px auto;
+			}
+			th{
+				color:#FFF;
+				font-weight:700;
+				font-size:1.5em;
+				text-align: center;
+			}
+			td{
+				text-align:center;
+				font-family:"Roboto"; 
+				border-right: 1px solid #4873A4;
+				border-bottom: 1px solid #4873A4;
+
+			}
+			tr td:hover{
+				background-color: rgba(255,255,255,0.3);				
+				color:#FFF;
+			}
