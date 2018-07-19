@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Minha página</title>
+    <link href="index.css" rel="stylesheet" type="text/css" />
+		<link href="https://fonts.googleapis.com/css?family=Roboto:400,400i,500,700" rel="stylesheet">
+  </head>
+
+  <body>
+		<h1>Notas 1º Semestre</h1>
+			<table>	
+			<thead>
+				<tr>
+					<th colspan="2">1ºA</th>
+					<th colspan="2">1ºB</th>
+					<th colspan="2">1ºC</th>
+				</tr>
+			</thead>
+			<tbody>
+			<tr>
+    		<td>Acacio Ribas</td>
+				<td></td>
+				<td>Adelaide Barroso</td>
+				<td></td>
+    		<td>Alicia Arruda</td>
+				<td></td>
+			</tr>
+			<tr>
+    		<td>Bernardina Orriça
+				<td></td>
+				<td>Brenda Jordán</td>
+				<td></td>
+				<td>Bukake Antunes</td>
+				<td></td>
+			</tr>
+			<tr>
+    		<td>Cláudia Marinho</td>
+				<td></td>
+				<td>Elias Guimarães</td>
+				<td></td>
+				<td>Eudes Aragón</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>Evandro Olivares</td>
+				<td></td>
+				<td>Ferdinando Castello Branco</td>
+				<td></td>
+				<td>Florbela Duarte</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>Francisca Márquez</td>
+				<td></td>
+				<td>Fulvio Assis</td>
+				<td></td>
+				<td>Ginéculo Borba</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>Gualdim Parracho</td>
+				<td></td>
+				<td>Josefa Branco</td>
+				<td></td>
+				<td>Luana Balladares</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>Mariana Trindade</td>
+				<td></td>
+				<td>Mercedes Abasto</td>
+				<td></td>
+				<td>Miriam Carvajal</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>Neusa Pitangui</td>
+				<td></td>
+				<td>Mário Araripe</td>
+				<td></td>
+				<td>Olívio Azambuja</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>Paulino Acatauaçu</td>
+				<td></td>
+				<td>Ferdinando Castello Branco</td>
+				<td></td>
+				<td>Florbela Duarte</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>Solano Carvalheira</td>
+				<td></td>
+				<td>Trajano Granjeiro</td>
+				<td></td>
+				<td>Valentim Liberato</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="medclass">Média da Classe</td>
+				<td>M1A</td>
+				<td></td>
+				<td>M1B</td>
+				<td></td>
+				<td>M1C</td>
+			</tr>
+			</tbody>
+		</table>
+
+		<p id="media-final"></p>
+		<p class="name">Nome um</p>
+			<p class="name">Nome dois</p>
+				<p class="name">Nome três</p>
+    <script src="index.js"></script>
+  </body>
+</html>
